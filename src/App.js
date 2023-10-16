@@ -28,6 +28,11 @@ function App() {
           <input type="text" name="miejscowosc" />
         </label>
         <br />
+        <label>
+          Miejscowość:
+          <input type="text" name="miejscowosc" />
+        </label>
+        <br />
         <button type="button" >
           Zapisz
         </button>
